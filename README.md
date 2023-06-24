@@ -1,10 +1,6 @@
-### Khangaii
+# Khangaii
 
 <!--
-**Khangaii/Khangaii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -16,7 +12,12 @@ Here are some ideas to get you started:
 -->
 
 ## Introduction
-Hello! I am a foreign student currently studying abroad in South Korea. My school is specialized in IT and I am in the Web development class.
-I am currently learning WPF C#
+I'm a Mongolian currently studying abroad in a Korean IT high school.
 
-`WIP`
+I'm interested in all things technology, such as AI, algorithms, web and app development, circuitry, etc.
+
+I know 3 languages: Mongolian, English, and Korean. Many more if you count programming languages :P
+
+## Statistics
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khangaii)
